@@ -63,6 +63,7 @@ brewery_types = {'micro',
                  'bar',
                  'contract',
                  'proprietor',
+                 'closed'
                  }
 
 dtypes = {'id': int,
