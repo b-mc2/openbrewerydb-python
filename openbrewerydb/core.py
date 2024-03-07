@@ -76,7 +76,7 @@ def load(state=None, city=None, brewery_type=None, verbose=False):
     city : str, optional
         City name (case-insensitive) to select (default is ``None``, all
         cities will be included).
-    brewery_type : {None, 'micro', 'regional', 'brewpub', 'large', 'planning', 'bar', 'contract', 'proprietor'}
+    brewery_type : {None, 'micro', 'nano', 'regional', 'brewpub', 'large', 'planning', 'bar', 'contract', 'proprietor', 'closed'}
         Brewery type to select (default is ``None``, all brewery types will be
         included).
     verbose : bool, optional
