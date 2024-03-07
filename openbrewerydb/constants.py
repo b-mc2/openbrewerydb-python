@@ -55,6 +55,7 @@ states = {'alabama',
           }
 
 brewery_types = {'micro',
+                 'nano',
                  'regional',
                  'brewpub',
                  'large',
